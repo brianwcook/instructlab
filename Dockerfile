@@ -1,4 +1,4 @@
-FROM nvidia/cuda:12.2.2-devel-ubuntu22.04 AS base
+FROM nvidia/cuda:12.6.1-devel-ubuntu22.04 AS base
 # TODO research: possibly use the smaller cuda image?
 #FROM nvidia/cuda:12.2.2-base-ubuntu22.04
 
